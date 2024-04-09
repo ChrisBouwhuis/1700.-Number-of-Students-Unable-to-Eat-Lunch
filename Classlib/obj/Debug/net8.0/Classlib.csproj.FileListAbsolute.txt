@@ -1,0 +1,11 @@
+I:\leet code questions\Classlib\obj\Debug\net8.0\Classlib.GeneratedMSBuildEditorConfig.editorconfig
+I:\leet code questions\Classlib\obj\Debug\net8.0\Classlib.AssemblyInfoInputs.cache
+I:\leet code questions\Classlib\obj\Debug\net8.0\Classlib.AssemblyInfo.cs
+I:\leet code questions\Classlib\obj\Debug\net8.0\Classlib.csproj.CoreCompileInputs.cache
+I:\leet code questions\Classlib\bin\Debug\net8.0\Classlib.deps.json
+I:\leet code questions\Classlib\bin\Debug\net8.0\Classlib.dll
+I:\leet code questions\Classlib\bin\Debug\net8.0\Classlib.pdb
+I:\leet code questions\Classlib\obj\Debug\net8.0\Classlib.dll
+I:\leet code questions\Classlib\obj\Debug\net8.0\refint\Classlib.dll
+I:\leet code questions\Classlib\obj\Debug\net8.0\Classlib.pdb
+I:\leet code questions\Classlib\obj\Debug\net8.0\ref\Classlib.dll
